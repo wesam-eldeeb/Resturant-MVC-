@@ -1,0 +1,56 @@
+﻿@model OnlineRestaurant.Models.Order
+
+@{
+    ViewData["Title"] = "PlaceOrder";
+}
+
+<h1>PlaceOrder</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Date
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Models
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+            <td>
+                    @Model.Id
+            </td>
+            <td>
+                    @Model.Date
+            </td>
+            <td>
+                    @Model.TotalAmount
+            </td>
+            <td>
+                @foreach (var itemm in Model.OrderItems)
+                {
+                    <p>@itemm.product.Name .... @itemm.Price</p>
+                }
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+
+    </tbody>
+</table>

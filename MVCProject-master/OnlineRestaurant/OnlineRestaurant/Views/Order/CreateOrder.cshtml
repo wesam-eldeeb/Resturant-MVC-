@@ -1,0 +1,27 @@
+﻿@model OnlineRestaurant.ViewModels.OrderVM
+
+@{
+    ViewData["Title"] = "CreateOrder";
+}
+
+<h1>CreateOrder</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<div class="row">
+@foreach (var item in Model.products)
+{
+        <form class="form" asp-action="AddOrderItem"  method="post">
+            <div class="card col-md-3" style="width: 18rem;">
+                <div class="card-body">
+                    @item.Name - @item.Price.ToString("C")
+                    <h2>@item.Id</h2>
+                    <input type="hidden" value="@item.Id" name="ProductId" />
+                    <input type="number" name="Quantity" class="form-control" />
+                    <button class="btn btn-info" type="submit">Add</button>
+                </div>
+            </div>
+    </form>
+}
+</div>
