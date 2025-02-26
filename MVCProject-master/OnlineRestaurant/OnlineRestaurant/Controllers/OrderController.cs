@@ -15,15 +15,20 @@ namespace OnlineRestaurant.Controllers
         Generic_Repository<Order> order_repo;
         Generic_Repository<Product> product_repo;
         private UserManager<ApplicationUser> UserManager;
+        private readonly Generic_Repository<OrderItem> orderItem_Rebo;
 
-        public OrderController(Generic_Repository<Order> orderrepo, Generic_Repository<Product> productrepo, UserManager<ApplicationUser> UserManager)
+        public OrderController(Generic_Repository<Order> orderrepo,
+            Generic_Repository<Product> productrepo,
+            UserManager<ApplicationUser> UserManager,
+            Generic_Repository<OrderItem> OrderItem_rebo
+            )
 
 
         {
             this.order_repo = orderrepo;
             this.product_repo = productrepo;
             this.UserManager = UserManager;
-
+            orderItem_Rebo = OrderItem_rebo;
         }
         [HttpPost]
 
@@ -76,7 +81,7 @@ namespace OnlineRestaurant.Controllers
             return Content("Not Found");
         }
         [Authorize]
-        //[HttpPost]
+        [HttpGet]
 
         public async Task<IActionResult> CreateOrder()
         {
@@ -88,7 +93,7 @@ namespace OnlineRestaurant.Controllers
 
             return View(orderVM);
         }
-        //[HttpPost]
+        [HttpGet]
 
         public IActionResult Cart()
         {
@@ -102,14 +107,14 @@ namespace OnlineRestaurant.Controllers
         public IActionResult PlaceOrder()
         {
             var model = HttpContext.Session.Get<OrderVM>("OrderVM");
-            if (model != null ||model.orderItemVMs.Count()!=0)
+            if (model != null || !model.orderItemVMs.Any() ||model.orderItemVMs==null)
             {
-                Order order = new Order(){
+                Order order = new Order()
+                {
                     UserId = UserManager.GetUserId(User),
                     Date = DateTime.Now,
                     TotalAmount = model.TotalAmount,
-                    OrderItems=new List<OrderItem>()
-                    
+                    OrderItems= new List<OrderItem>()
                 };
 
                 foreach (var item in model.orderItemVMs)
@@ -121,13 +126,32 @@ namespace OnlineRestaurant.Controllers
                         Quantity = item.Quantity,
 
                     });
+
+
                 }
 
-               
                 order_repo.Add(order);
-                return View(order);
+                order_repo.Save();
+                return RedirectToAction("GetOrder", new {id=order.Id });
             }
             return RedirectToAction("CreateOrder");
+        }
+
+
+
+        [Authorize]
+        public IActionResult GetOrder(int id)
+        {
+            Order order = order_repo.GetById(id);
+            
+           
+            return (order==null||order.OrderItems==null||!order.OrderItems.Any())? NotFound(): View("GetOrder", order);
+        }
+        [Authorize (Roles ="Admin")]
+        public IActionResult GetAllOrder()
+        {
+            List<Order> orders= order_repo.GetAll();
+            return View(orders);
         }
     }
 }

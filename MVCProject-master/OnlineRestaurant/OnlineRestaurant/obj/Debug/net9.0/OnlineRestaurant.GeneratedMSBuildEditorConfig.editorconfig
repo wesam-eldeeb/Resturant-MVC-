@@ -17,113 +17,117 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OnlineRestaurant
 build_property.RootNamespace = OnlineRestaurant
-build_property.ProjectDir = C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\
+build_property.ProjectDir = D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant
+build_property.MSBuildProjectDirectory = D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Account/Login.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Account/Register.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Category/AllCategories.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Category/AllCategories.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWxsQ2F0ZWdvcmllcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Category/Details.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Category/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Category/Edit.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Category/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Category/New.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Category/New.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcTmV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Home/Index.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Home/Privacy.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Ingredient/Details.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Ingredient/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Ingredient/Edit.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Ingredient/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Ingredient/Index.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Ingredient/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Ingredient/New.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Ingredient/New.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudFxOZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Order/Cart.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Order/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Order/CreateOrder.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Order/CreateOrder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ3JlYXRlT3JkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Order/PlaceOrder.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcUGxhY2VPcmRlci5jc2h0bWw=
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Order/GetAllOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcR2V0QWxsT3JkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Product/AllProducts.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Order/GetOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcR2V0T3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Product/AllProducts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBbGxQcm9kdWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Product/Details.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Product/Edit.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Product/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Product/New.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Product/New.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxOZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Role/AddRole.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Role/AddRole.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxBZGRSb2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Shared/Error.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/_ViewImports.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/_ViewStart.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mo/Downloads/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Shared/_Layout.cshtml]
+[D:/MVCProjectFinal/MVCProject-master/OnlineRestaurant/OnlineRestaurant/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-kp9xjhomyc

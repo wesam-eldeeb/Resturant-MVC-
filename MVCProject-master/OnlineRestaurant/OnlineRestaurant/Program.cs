@@ -15,7 +15,7 @@ namespace OnlineRestaurant
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<RestaurantContext>(options =>
             {
-                options.UseSqlServer(builder.Configuration.GetConnectionString("RestaurantDatabase"));
+                options.UseLazyLoadingProxies(true).UseSqlServer(builder.Configuration.GetConnectionString("RestaurantDatabase"));
 
 
             });

@@ -10,10 +10,7 @@ namespace OnlineRestaurant.Models
         [ForeignKey("product")]
         public int ProductId { get; set; }
         public virtual Product product { get; set; }
-
         public int Quantity { get; set; }
         public decimal Price { get; set; }
-
-
     }
 }
