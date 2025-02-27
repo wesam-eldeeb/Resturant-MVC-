@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8O59tXd5dMI5GbSjkZpO5TQtI4jA6T7B2anL9F1EMfI=",
+  "Hash": "X2Tv9ux2N1HOSpVLKc0fBYJb6gsm2eFkNeYZKIucayg=",
   "Source": "OnlineRestaurant",
   "BasePath": "_content/OnlineRestaurant",
   "Mode": "Default",
@@ -162,6 +162,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\551yx16jzv-ikbvthl94z.gz",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "js/bootstrap#[.{fingerprint=ikbvthl94z}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\bootstrap.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zr5yjgv9rt",
+      "Integrity": "QUv0Tys36oeq6jEsi6hSO6WI3hUjMm6M5wpmSzZKQhQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\5kw1nq2nuy-0ezrc3ek9g.gz",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "css/style#[.{fingerprint=0ezrc3ek9g}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ewi641ou21",
+      "Integrity": "0jIPYTxYTWCziQXMW0zH+JDRX2AaVsnB5XY07vOkwY8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\style.css"
     },
     {
       "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\5l2u5wyr83-ilo7uva0vt.gz",
@@ -542,6 +584,27 @@
       "OriginalItemSpec": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\biy8hjilp8-pbup2pr0gb.gz",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "css/responsive#[.{fingerprint=pbup2pr0gb}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\responsive.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "v5mkj6ijo5",
+      "Integrity": "M1jPD67zeGduWf1D+2aViAWRiipaY4O4Vr0GPpa1Ol0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\responsive.css"
+    },
+    {
       "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\c7927i54n0-rhc411e251.gz",
       "SourceId": "OnlineRestaurant",
       "SourceType": "Computed",
@@ -647,6 +710,27 @@
       "OriginalItemSpec": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\f4b0lx3b8g-0h1hq80lqs.gz",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "js/jquery-3.4.1.min#[.{fingerprint=0h1hq80lqs}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7dbew9iai3",
+      "Integrity": "9UpGjr3ISKaErqGMknwglSpdWZhUUGXa/17voR1KghU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\jquery-3.4.1.min.js"
+    },
+    {
       "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\fhimrhg0vv-hrwsygsryq.gz",
       "SourceId": "OnlineRestaurant",
       "SourceType": "Discovered",
@@ -729,6 +813,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\hqrkzkmytv-zuvuklkj3l.gz",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "css/bootstrap#[.{fingerprint=zuvuklkj3l}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\bootstrap.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7ovjs86mt9",
+      "Integrity": "6TzK8c+xgpvCn+VVQ22XsYIUA7uhGjhgUebpKZinJx8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\bootstrap.css"
     },
     {
       "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\iwu6nnul4q-493y06b0oq.gz",
@@ -815,12 +920,12 @@
       "OriginalItemSpec": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\kp25e8nyvw-lugek5hnai.gz",
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\kp25e8nyvw-1ro4vkfyq9.gz",
       "SourceId": "OnlineRestaurant",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/OnlineRestaurant",
-      "RelativePath": "css/site#[.{fingerprint=lugek5hnai}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=1ro4vkfyq9}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -829,8 +934,8 @@
       "RelatedAsset": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jrpo9zjyzf",
-      "Integrity": "kaKh4p2nWzm7Wq+cxjp3pwo/zq+KYaOscSpE6m/AE7g=",
+      "Fingerprint": "0y4qpz4mgo",
+      "Integrity": "iIDtsvFT858LfJAK1rVl1j5BvunQkYF7w10ac5IKqG0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\site.css"
@@ -1067,6 +1172,27 @@
       "OriginalItemSpec": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\r8bysqqiwf-yahiwgkxwu.gz",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "css/style.css#[.{fingerprint=yahiwgkxwu}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\style.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "tlrq6zu7nt",
+      "Integrity": "QeCjwp7sXmkIlKPHgRACUsbBbWtxq0jfG0im/fuyWGo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\style.css.map"
+    },
+    {
       "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\rxn51rb8kw-fsbi9cje9m.gz",
       "SourceId": "OnlineRestaurant",
       "SourceType": "Discovered",
@@ -1107,6 +1233,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\sofmv2a1z0-rf9f4pws8w.gz",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "css/font-awesome.min#[.{fingerprint=rf9f4pws8w}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\font-awesome.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "uyc810qzzs",
+      "Integrity": "pvR8fLiYSvwJJ8d8U8EwyH2btS1ao3zE8ELEsnJwcXY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\font-awesome.min.css"
     },
     {
       "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\t9i63oklp2-aexeepp0ev.gz",
@@ -1212,6 +1359,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\w168em46nv-95dnrx32fu.gz",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "js/custom#[.{fingerprint=95dnrx32fu}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\custom.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gip2zoztfb",
+      "Integrity": "WD82SPCf7m/6oix8oiXFZdhu/BPT95arqJ/fmvag0nY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\custom.js"
     },
     {
       "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\w4lu4blfer-61n19gt1b8.gz",
@@ -1403,6 +1571,69 @@
       "OriginalItemSpec": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\OnlineRestaurant.bundle.scp.css"
     },
     {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\bootstrap.css",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zuvuklkj3l",
+      "Integrity": "Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\font-awesome.min.css",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "css/font-awesome.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rf9f4pws8w",
+      "Integrity": "eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\responsive.css",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "css/responsive#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pbup2pr0gb",
+      "Integrity": "xVsC7pqx2JYYQ2599Gu1Amv713RWxE8vQXtkcex22tM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\responsive.css"
+    },
+    {
       "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\site.css",
       "SourceId": "OnlineRestaurant",
       "SourceType": "Discovered",
@@ -1417,11 +1648,74 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "lugek5hnai",
-      "Integrity": "zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=",
+      "Fingerprint": "1ro4vkfyq9",
+      "Integrity": "TRV3MdMnbcdupR19G5OQDCKHQMbvRxHZu9t7KpfknF0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\style.css",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0ezrc3ek9g",
+      "Integrity": "GLxvzLVepZewOvSm5YPidw4HMkawGqeSONQ+I3GIXxw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\style.css.map",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "css/style.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yahiwgkxwu",
+      "Integrity": "Gghnfg53TE4w17gybYG/f2YrVd+KPIi9AJ5kCmR0Y6Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css.map"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\style.scss",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "css/style#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ew3ptl1pu7",
+      "Integrity": "Ah+aEGBb7ZXzQEUtXoMdp0aCJQQyErate2QdLeJPAs0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.scss"
     },
     {
       "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\favicon.ico",
@@ -1443,6 +1737,468 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "fonts/fontawesome-webfont#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yex6mt8az7",
+      "Integrity": "qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "fonts/fontawesome-webfont#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eyrbpue749",
+      "Integrity": "ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "fonts/fontawesome-webfont#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2hr3gl3r5x",
+      "Integrity": "Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\about-img.png",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "images/about-img#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6q6ve1nrg4",
+      "Integrity": "MirdVuaCPlG/94LtcofNclWLvxFATqr/E6QLagKKNQQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\about-img.png"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\client1.jpg",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "images/client1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k13beupcue",
+      "Integrity": "KHrH/hbXmYAzHwDhFPb7yYic1RYXQ0g9HwvrHjlfTE4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\client1.jpg"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\client2.jpg",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "images/client2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4eo462ldal",
+      "Integrity": "hA0aOsoNnRH5G3GWPib1j37Qo2NeG9mkN20E6VM5iRA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\client2.jpg"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f1.png",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "images/f1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oh8cfn8tcd",
+      "Integrity": "BF/cazOQewLjh7Rg+bp7dchZABZhKglVgnbLpkGNjs0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f1.png"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f2.png",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "images/f2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ktovtbb25v",
+      "Integrity": "aAj2Yr4QUUIh3m5c4Eko0d7aHtuL7jcd2tgFsXsZGL8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f2.png"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f3.png",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "images/f3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l3uqngtqwn",
+      "Integrity": "4SEOqKZHvZRLlzwWlX/H6nvAPH8rp1Pb54weTNrZqzE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f3.png"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f4.png",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "images/f4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6kxzkjmezk",
+      "Integrity": "WstFQoD5AGfdO7ImxBtv1o83ABQ65UVURNuIG1i+3fM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f4.png"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f5.png",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "images/f5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qquuf1u58q",
+      "Integrity": "IiqMATkTr6Zep29/WJH4HTpwyybaMUqoqMJ+/LKMz4k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f5.png"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f6.png",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "images/f6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zlipdfzboh",
+      "Integrity": "iRwJFtnhaiaQ2kzJgvvtMbKNEsVLFviSQad0nNsi8Qk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f6.png"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f7.png",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "images/f7#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5mp1grcj9z",
+      "Integrity": "7RND20RFON1IvEAhjPA47bPHZNetdfH+So3rz9Ef5mw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f7.png"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f8.png",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "images/f8#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vuszxf9eko",
+      "Integrity": "KRbWqyiZTKvnhp4EYDnSmvQVyHjbBCwwWsL0IYL7ytM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f8.png"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f9.png",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "images/f9#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2zme3h13sw",
+      "Integrity": "zgLCwWg1x818Va0AMDbIzGwhikqo4g8NwCxVTfn1YKk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f9.png"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\favicon.png",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "images/favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9ozdcrmt9b",
+      "Integrity": "J5KFk1FHnNy1iubFCDshfeetRTsO2Q8r5zat5dKs5c8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\favicon.png"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\hero-bg.jpg",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "images/hero-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bks7niomeb",
+      "Integrity": "W4vfruI1MfBt13Sti+1ExCHnMH6k2MqjUq2++WabWlI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hero-bg.jpg"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\o1.jpg",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "images/o1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rkigy015z7",
+      "Integrity": "9YsnGdNgrzPfCQ1NwXquZ5Aa8QZfVORNHTm54rmtO1M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\o1.jpg"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\o2.jpg",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "images/o2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "48jshhobi3",
+      "Integrity": "rNo+3PpZ1UGdR76b0maKtllJFYF5wExP7ZBlPCK3EIY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\o2.jpg"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\bootstrap.js",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "js/bootstrap#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ikbvthl94z",
+      "Integrity": "Uv3un1DrOQEmgwZUBkxD1kT4ia9ckWdHDimRkTHtEjs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\custom.js",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "js/custom#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "95dnrx32fu",
+      "Integrity": "TXGUUXUPgOg61BH77vLrF3A4BsMbAQ1iCNx9nHVkrDQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\custom.js"
+    },
+    {
+      "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "SourceId": "OnlineRestaurant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\",
+      "BasePath": "_content/OnlineRestaurant",
+      "RelativePath": "js/jquery-3.4.1.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0h1hq80lqs",
+      "Integrity": "TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery-3.4.1.min.js"
     },
     {
       "Identity": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\site.js",
@@ -2728,13 +3484,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.css",
-      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\kp25e8nyvw-lugek5hnai.gz",
+      "Route": "css/bootstrap.css",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\hqrkzkmytv-zuvuklkj3l.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003194888179"
+          "Quality": "0.000039306631"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +3500,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "312"
+          "Value": "25440"
         },
         {
           "Name": "ETag",
-          "Value": "\"kaKh4p2nWzm7Wq+cxjp3pwo/zq+KYaOscSpE6m/AE7g=\""
+          "Value": "\"6TzK8c+xgpvCn+VVQ22XsYIUA7uhGjhgUebpKZinJx8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 13:08:47 GMT"
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,18 +3528,920 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=\""
+          "Value": "W/\"Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo="
+          "Value": "sha256-Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s="
         }
       ]
     },
     {
-      "Route": "css/site.css",
+      "Route": "css/bootstrap.css",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.css.gz",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\hqrkzkmytv-zuvuklkj3l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6TzK8c+xgpvCn+VVQ22XsYIUA7uhGjhgUebpKZinJx8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6TzK8c+xgpvCn+VVQ22XsYIUA7uhGjhgUebpKZinJx8="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.zuvuklkj3l.css",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\hqrkzkmytv-zuvuklkj3l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000039306631"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25440"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6TzK8c+xgpvCn+VVQ22XsYIUA7uhGjhgUebpKZinJx8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zuvuklkj3l"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.zuvuklkj3l.css",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zuvuklkj3l"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.zuvuklkj3l.css.gz",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\hqrkzkmytv-zuvuklkj3l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6TzK8c+xgpvCn+VVQ22XsYIUA7uhGjhgUebpKZinJx8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zuvuklkj3l"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6TzK8c+xgpvCn+VVQ22XsYIUA7uhGjhgUebpKZinJx8="
+        }
+      ]
+    },
+    {
+      "Route": "css/font-awesome.min.css",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\sofmv2a1z0-rf9f4pws8w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000141823855"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7050"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pvR8fLiYSvwJJ8d8U8EwyH2btS1ao3zE8ELEsnJwcXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0="
+        }
+      ]
+    },
+    {
+      "Route": "css/font-awesome.min.css",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\font-awesome.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0="
+        }
+      ]
+    },
+    {
+      "Route": "css/font-awesome.min.css.gz",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\sofmv2a1z0-rf9f4pws8w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pvR8fLiYSvwJJ8d8U8EwyH2btS1ao3zE8ELEsnJwcXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pvR8fLiYSvwJJ8d8U8EwyH2btS1ao3zE8ELEsnJwcXY="
+        }
+      ]
+    },
+    {
+      "Route": "css/font-awesome.min.rf9f4pws8w.css",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\sofmv2a1z0-rf9f4pws8w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000141823855"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7050"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pvR8fLiYSvwJJ8d8U8EwyH2btS1ao3zE8ELEsnJwcXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rf9f4pws8w"
+        },
+        {
+          "Name": "label",
+          "Value": "css/font-awesome.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0="
+        }
+      ]
+    },
+    {
+      "Route": "css/font-awesome.min.rf9f4pws8w.css",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\font-awesome.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rf9f4pws8w"
+        },
+        {
+          "Name": "label",
+          "Value": "css/font-awesome.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0="
+        }
+      ]
+    },
+    {
+      "Route": "css/font-awesome.min.rf9f4pws8w.css.gz",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\sofmv2a1z0-rf9f4pws8w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pvR8fLiYSvwJJ8d8U8EwyH2btS1ao3zE8ELEsnJwcXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rf9f4pws8w"
+        },
+        {
+          "Name": "label",
+          "Value": "css/font-awesome.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pvR8fLiYSvwJJ8d8U8EwyH2btS1ao3zE8ELEsnJwcXY="
+        }
+      ]
+    },
+    {
+      "Route": "css/responsive.css",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\biy8hjilp8-pbup2pr0gb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002016129032"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "495"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M1jPD67zeGduWf1D+2aViAWRiipaY4O4Vr0GPpa1Ol0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xVsC7pqx2JYYQ2599Gu1Amv713RWxE8vQXtkcex22tM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xVsC7pqx2JYYQ2599Gu1Amv713RWxE8vQXtkcex22tM="
+        }
+      ]
+    },
+    {
+      "Route": "css/responsive.css",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\responsive.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xVsC7pqx2JYYQ2599Gu1Amv713RWxE8vQXtkcex22tM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xVsC7pqx2JYYQ2599Gu1Amv713RWxE8vQXtkcex22tM="
+        }
+      ]
+    },
+    {
+      "Route": "css/responsive.css.gz",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\biy8hjilp8-pbup2pr0gb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "495"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M1jPD67zeGduWf1D+2aViAWRiipaY4O4Vr0GPpa1Ol0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M1jPD67zeGduWf1D+2aViAWRiipaY4O4Vr0GPpa1Ol0="
+        }
+      ]
+    },
+    {
+      "Route": "css/responsive.pbup2pr0gb.css",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\biy8hjilp8-pbup2pr0gb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002016129032"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "495"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M1jPD67zeGduWf1D+2aViAWRiipaY4O4Vr0GPpa1Ol0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xVsC7pqx2JYYQ2599Gu1Amv713RWxE8vQXtkcex22tM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pbup2pr0gb"
+        },
+        {
+          "Name": "label",
+          "Value": "css/responsive.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xVsC7pqx2JYYQ2599Gu1Amv713RWxE8vQXtkcex22tM="
+        }
+      ]
+    },
+    {
+      "Route": "css/responsive.pbup2pr0gb.css",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\responsive.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xVsC7pqx2JYYQ2599Gu1Amv713RWxE8vQXtkcex22tM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pbup2pr0gb"
+        },
+        {
+          "Name": "label",
+          "Value": "css/responsive.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xVsC7pqx2JYYQ2599Gu1Amv713RWxE8vQXtkcex22tM="
+        }
+      ]
+    },
+    {
+      "Route": "css/responsive.pbup2pr0gb.css.gz",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\biy8hjilp8-pbup2pr0gb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "495"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M1jPD67zeGduWf1D+2aViAWRiipaY4O4Vr0GPpa1Ol0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pbup2pr0gb"
+        },
+        {
+          "Name": "label",
+          "Value": "css/responsive.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M1jPD67zeGduWf1D+2aViAWRiipaY4O4Vr0GPpa1Ol0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.1ro4vkfyq9.css",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\kp25e8nyvw-1ro4vkfyq9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003164556962"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "315"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iIDtsvFT858LfJAK1rVl1j5BvunQkYF7w10ac5IKqG0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 09:13:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TRV3MdMnbcdupR19G5OQDCKHQMbvRxHZu9t7KpfknF0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ro4vkfyq9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TRV3MdMnbcdupR19G5OQDCKHQMbvRxHZu9t7KpfknF0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.1ro4vkfyq9.css",
       "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2793,7 +4451,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "637"
+          "Value": "658"
         },
         {
           "Name": "Content-Type",
@@ -2801,121 +4459,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=\""
+          "Value": "\"TRV3MdMnbcdupR19G5OQDCKHQMbvRxHZu9t7KpfknF0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 13:08:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\kp25e8nyvw-lugek5hnai.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "312"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kaKh4p2nWzm7Wq+cxjp3pwo/zq+KYaOscSpE6m/AE7g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 13:08:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kaKh4p2nWzm7Wq+cxjp3pwo/zq+KYaOscSpE6m/AE7g="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.lugek5hnai.css",
-      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\kp25e8nyvw-lugek5hnai.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003194888179"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "312"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kaKh4p2nWzm7Wq+cxjp3pwo/zq+KYaOscSpE6m/AE7g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 13:08:47 GMT"
+          "Value": "Thu, 27 Feb 2025 09:13:27 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lugek5hnai"
+          "Value": "1ro4vkfyq9"
         },
         {
           "Name": "label",
@@ -2923,13 +4481,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo="
+          "Value": "sha256-TRV3MdMnbcdupR19G5OQDCKHQMbvRxHZu9t7KpfknF0="
         }
       ]
     },
     {
-      "Route": "css/site.lugek5hnai.css",
-      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\site.css",
+      "Route": "css/site.1ro4vkfyq9.css.gz",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\kp25e8nyvw-1ro4vkfyq9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2938,7 +4496,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "637"
+          "Value": "315"
         },
         {
           "Name": "Content-Type",
@@ -2946,56 +4504,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=\""
+          "Value": "\"iIDtsvFT858LfJAK1rVl1j5BvunQkYF7w10ac5IKqG0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 13:08:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lugek5hnai"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.lugek5hnai.css.gz",
-      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\kp25e8nyvw-lugek5hnai.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "312"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kaKh4p2nWzm7Wq+cxjp3pwo/zq+KYaOscSpE6m/AE7g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 13:08:47 GMT"
+          "Value": "Thu, 27 Feb 2025 09:13:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3013,7 +4526,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lugek5hnai"
+          "Value": "1ro4vkfyq9"
         },
         {
           "Name": "label",
@@ -3021,7 +4534,822 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kaKh4p2nWzm7Wq+cxjp3pwo/zq+KYaOscSpE6m/AE7g="
+          "Value": "sha256-iIDtsvFT858LfJAK1rVl1j5BvunQkYF7w10ac5IKqG0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\kp25e8nyvw-1ro4vkfyq9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003164556962"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "315"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iIDtsvFT858LfJAK1rVl1j5BvunQkYF7w10ac5IKqG0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 09:13:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TRV3MdMnbcdupR19G5OQDCKHQMbvRxHZu9t7KpfknF0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TRV3MdMnbcdupR19G5OQDCKHQMbvRxHZu9t7KpfknF0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TRV3MdMnbcdupR19G5OQDCKHQMbvRxHZu9t7KpfknF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 09:13:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TRV3MdMnbcdupR19G5OQDCKHQMbvRxHZu9t7KpfknF0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\kp25e8nyvw-1ro4vkfyq9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iIDtsvFT858LfJAK1rVl1j5BvunQkYF7w10ac5IKqG0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 09:13:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iIDtsvFT858LfJAK1rVl1j5BvunQkYF7w10ac5IKqG0="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.0ezrc3ek9g.css",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\5kw1nq2nuy-0ezrc3ek9g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000349283968"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2862"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0jIPYTxYTWCziQXMW0zH+JDRX2AaVsnB5XY07vOkwY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GLxvzLVepZewOvSm5YPidw4HMkawGqeSONQ+I3GIXxw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ezrc3ek9g"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GLxvzLVepZewOvSm5YPidw4HMkawGqeSONQ+I3GIXxw="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.0ezrc3ek9g.css",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GLxvzLVepZewOvSm5YPidw4HMkawGqeSONQ+I3GIXxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ezrc3ek9g"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GLxvzLVepZewOvSm5YPidw4HMkawGqeSONQ+I3GIXxw="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.0ezrc3ek9g.css.gz",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\5kw1nq2nuy-0ezrc3ek9g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0jIPYTxYTWCziQXMW0zH+JDRX2AaVsnB5XY07vOkwY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ezrc3ek9g"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0jIPYTxYTWCziQXMW0zH+JDRX2AaVsnB5XY07vOkwY8="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\5kw1nq2nuy-0ezrc3ek9g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000349283968"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2862"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0jIPYTxYTWCziQXMW0zH+JDRX2AaVsnB5XY07vOkwY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GLxvzLVepZewOvSm5YPidw4HMkawGqeSONQ+I3GIXxw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GLxvzLVepZewOvSm5YPidw4HMkawGqeSONQ+I3GIXxw="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GLxvzLVepZewOvSm5YPidw4HMkawGqeSONQ+I3GIXxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GLxvzLVepZewOvSm5YPidw4HMkawGqeSONQ+I3GIXxw="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.gz",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\5kw1nq2nuy-0ezrc3ek9g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0jIPYTxYTWCziQXMW0zH+JDRX2AaVsnB5XY07vOkwY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0jIPYTxYTWCziQXMW0zH+JDRX2AaVsnB5XY07vOkwY8="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.map",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\r8bysqqiwf-yahiwgkxwu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000249563264"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4006"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QeCjwp7sXmkIlKPHgRACUsbBbWtxq0jfG0im/fuyWGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Gghnfg53TE4w17gybYG/f2YrVd+KPIi9AJ5kCmR0Y6Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gghnfg53TE4w17gybYG/f2YrVd+KPIi9AJ5kCmR0Y6Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.map",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\style.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gghnfg53TE4w17gybYG/f2YrVd+KPIi9AJ5kCmR0Y6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gghnfg53TE4w17gybYG/f2YrVd+KPIi9AJ5kCmR0Y6Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.map.gz",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\r8bysqqiwf-yahiwgkxwu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QeCjwp7sXmkIlKPHgRACUsbBbWtxq0jfG0im/fuyWGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QeCjwp7sXmkIlKPHgRACUsbBbWtxq0jfG0im/fuyWGo="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.yahiwgkxwu.map",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\r8bysqqiwf-yahiwgkxwu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000249563264"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4006"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QeCjwp7sXmkIlKPHgRACUsbBbWtxq0jfG0im/fuyWGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Gghnfg53TE4w17gybYG/f2YrVd+KPIi9AJ5kCmR0Y6Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yahiwgkxwu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gghnfg53TE4w17gybYG/f2YrVd+KPIi9AJ5kCmR0Y6Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.yahiwgkxwu.map",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\style.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gghnfg53TE4w17gybYG/f2YrVd+KPIi9AJ5kCmR0Y6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yahiwgkxwu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gghnfg53TE4w17gybYG/f2YrVd+KPIi9AJ5kCmR0Y6Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.yahiwgkxwu.map.gz",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\r8bysqqiwf-yahiwgkxwu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QeCjwp7sXmkIlKPHgRACUsbBbWtxq0jfG0im/fuyWGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yahiwgkxwu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QeCjwp7sXmkIlKPHgRACUsbBbWtxq0jfG0im/fuyWGo="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.ew3ptl1pu7.scss",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\style.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ah+aEGBb7ZXzQEUtXoMdp0aCJQQyErate2QdLeJPAs0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 12:47:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ew3ptl1pu7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ah+aEGBb7ZXzQEUtXoMdp0aCJQQyErate2QdLeJPAs0="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.scss",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\style.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ah+aEGBb7ZXzQEUtXoMdp0aCJQQyErate2QdLeJPAs0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 12:47:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ah+aEGBb7ZXzQEUtXoMdp0aCJQQyErate2QdLeJPAs0="
         }
       ]
     },
@@ -3320,6 +5648,2458 @@
         {
           "Name": "integrity",
           "Value": "sha256-jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/fontawesome-webfont.2hr3gl3r5x.woff2",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2hr3gl3r5x"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/fontawesome-webfont.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/fontawesome-webfont.eyrbpue749.woff",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eyrbpue749"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/fontawesome-webfont.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/fontawesome-webfont.ttf",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/fontawesome-webfont.woff",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/fontawesome-webfont.woff2",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/fontawesome-webfont.yex6mt8az7.ttf",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yex6mt8az7"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/fontawesome-webfont.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg="
+        }
+      ]
+    },
+    {
+      "Route": "images/about-img.6q6ve1nrg4.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\about-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "205511"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MirdVuaCPlG/94LtcofNclWLvxFATqr/E6QLagKKNQQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6q6ve1nrg4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/about-img.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MirdVuaCPlG/94LtcofNclWLvxFATqr/E6QLagKKNQQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/about-img.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\about-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "205511"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MirdVuaCPlG/94LtcofNclWLvxFATqr/E6QLagKKNQQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MirdVuaCPlG/94LtcofNclWLvxFATqr/E6QLagKKNQQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/client1.jpg",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\client1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39685"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KHrH/hbXmYAzHwDhFPb7yYic1RYXQ0g9HwvrHjlfTE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KHrH/hbXmYAzHwDhFPb7yYic1RYXQ0g9HwvrHjlfTE4="
+        }
+      ]
+    },
+    {
+      "Route": "images/client1.k13beupcue.jpg",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\client1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39685"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KHrH/hbXmYAzHwDhFPb7yYic1RYXQ0g9HwvrHjlfTE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k13beupcue"
+        },
+        {
+          "Name": "label",
+          "Value": "images/client1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KHrH/hbXmYAzHwDhFPb7yYic1RYXQ0g9HwvrHjlfTE4="
+        }
+      ]
+    },
+    {
+      "Route": "images/client2.4eo462ldal.jpg",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\client2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43280"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hA0aOsoNnRH5G3GWPib1j37Qo2NeG9mkN20E6VM5iRA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4eo462ldal"
+        },
+        {
+          "Name": "label",
+          "Value": "images/client2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hA0aOsoNnRH5G3GWPib1j37Qo2NeG9mkN20E6VM5iRA="
+        }
+      ]
+    },
+    {
+      "Route": "images/client2.jpg",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\client2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43280"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hA0aOsoNnRH5G3GWPib1j37Qo2NeG9mkN20E6VM5iRA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hA0aOsoNnRH5G3GWPib1j37Qo2NeG9mkN20E6VM5iRA="
+        }
+      ]
+    },
+    {
+      "Route": "images/f1.oh8cfn8tcd.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "254582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BF/cazOQewLjh7Rg+bp7dchZABZhKglVgnbLpkGNjs0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oh8cfn8tcd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BF/cazOQewLjh7Rg+bp7dchZABZhKglVgnbLpkGNjs0="
+        }
+      ]
+    },
+    {
+      "Route": "images/f1.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "254582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BF/cazOQewLjh7Rg+bp7dchZABZhKglVgnbLpkGNjs0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BF/cazOQewLjh7Rg+bp7dchZABZhKglVgnbLpkGNjs0="
+        }
+      ]
+    },
+    {
+      "Route": "images/f2.ktovtbb25v.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aAj2Yr4QUUIh3m5c4Eko0d7aHtuL7jcd2tgFsXsZGL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ktovtbb25v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aAj2Yr4QUUIh3m5c4Eko0d7aHtuL7jcd2tgFsXsZGL8="
+        }
+      ]
+    },
+    {
+      "Route": "images/f2.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aAj2Yr4QUUIh3m5c4Eko0d7aHtuL7jcd2tgFsXsZGL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aAj2Yr4QUUIh3m5c4Eko0d7aHtuL7jcd2tgFsXsZGL8="
+        }
+      ]
+    },
+    {
+      "Route": "images/f3.l3uqngtqwn.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229279"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4SEOqKZHvZRLlzwWlX/H6nvAPH8rp1Pb54weTNrZqzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l3uqngtqwn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4SEOqKZHvZRLlzwWlX/H6nvAPH8rp1Pb54weTNrZqzE="
+        }
+      ]
+    },
+    {
+      "Route": "images/f3.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229279"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4SEOqKZHvZRLlzwWlX/H6nvAPH8rp1Pb54weTNrZqzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4SEOqKZHvZRLlzwWlX/H6nvAPH8rp1Pb54weTNrZqzE="
+        }
+      ]
+    },
+    {
+      "Route": "images/f4.6kxzkjmezk.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219054"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WstFQoD5AGfdO7ImxBtv1o83ABQ65UVURNuIG1i+3fM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6kxzkjmezk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WstFQoD5AGfdO7ImxBtv1o83ABQ65UVURNuIG1i+3fM="
+        }
+      ]
+    },
+    {
+      "Route": "images/f4.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219054"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WstFQoD5AGfdO7ImxBtv1o83ABQ65UVURNuIG1i+3fM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WstFQoD5AGfdO7ImxBtv1o83ABQ65UVURNuIG1i+3fM="
+        }
+      ]
+    },
+    {
+      "Route": "images/f5.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "276337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IiqMATkTr6Zep29/WJH4HTpwyybaMUqoqMJ+/LKMz4k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IiqMATkTr6Zep29/WJH4HTpwyybaMUqoqMJ+/LKMz4k="
+        }
+      ]
+    },
+    {
+      "Route": "images/f5.qquuf1u58q.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "276337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IiqMATkTr6Zep29/WJH4HTpwyybaMUqoqMJ+/LKMz4k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qquuf1u58q"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IiqMATkTr6Zep29/WJH4HTpwyybaMUqoqMJ+/LKMz4k="
+        }
+      ]
+    },
+    {
+      "Route": "images/f6.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iRwJFtnhaiaQ2kzJgvvtMbKNEsVLFviSQad0nNsi8Qk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iRwJFtnhaiaQ2kzJgvvtMbKNEsVLFviSQad0nNsi8Qk="
+        }
+      ]
+    },
+    {
+      "Route": "images/f6.zlipdfzboh.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iRwJFtnhaiaQ2kzJgvvtMbKNEsVLFviSQad0nNsi8Qk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zlipdfzboh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iRwJFtnhaiaQ2kzJgvvtMbKNEsVLFviSQad0nNsi8Qk="
+        }
+      ]
+    },
+    {
+      "Route": "images/f7.5mp1grcj9z.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7RND20RFON1IvEAhjPA47bPHZNetdfH+So3rz9Ef5mw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5mp1grcj9z"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f7.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7RND20RFON1IvEAhjPA47bPHZNetdfH+So3rz9Ef5mw="
+        }
+      ]
+    },
+    {
+      "Route": "images/f7.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7RND20RFON1IvEAhjPA47bPHZNetdfH+So3rz9Ef5mw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7RND20RFON1IvEAhjPA47bPHZNetdfH+So3rz9Ef5mw="
+        }
+      ]
+    },
+    {
+      "Route": "images/f8.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KRbWqyiZTKvnhp4EYDnSmvQVyHjbBCwwWsL0IYL7ytM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KRbWqyiZTKvnhp4EYDnSmvQVyHjbBCwwWsL0IYL7ytM="
+        }
+      ]
+    },
+    {
+      "Route": "images/f8.vuszxf9eko.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KRbWqyiZTKvnhp4EYDnSmvQVyHjbBCwwWsL0IYL7ytM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vuszxf9eko"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f8.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KRbWqyiZTKvnhp4EYDnSmvQVyHjbBCwwWsL0IYL7ytM="
+        }
+      ]
+    },
+    {
+      "Route": "images/f9.2zme3h13sw.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zgLCwWg1x818Va0AMDbIzGwhikqo4g8NwCxVTfn1YKk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2zme3h13sw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f9.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zgLCwWg1x818Va0AMDbIzGwhikqo4g8NwCxVTfn1YKk="
+        }
+      ]
+    },
+    {
+      "Route": "images/f9.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zgLCwWg1x818Va0AMDbIzGwhikqo4g8NwCxVTfn1YKk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zgLCwWg1x818Va0AMDbIzGwhikqo4g8NwCxVTfn1YKk="
+        }
+      ]
+    },
+    {
+      "Route": "images/favicon.9ozdcrmt9b.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J5KFk1FHnNy1iubFCDshfeetRTsO2Q8r5zat5dKs5c8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9ozdcrmt9b"
+        },
+        {
+          "Name": "label",
+          "Value": "images/favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J5KFk1FHnNy1iubFCDshfeetRTsO2Q8r5zat5dKs5c8="
+        }
+      ]
+    },
+    {
+      "Route": "images/favicon.png",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J5KFk1FHnNy1iubFCDshfeetRTsO2Q8r5zat5dKs5c8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J5KFk1FHnNy1iubFCDshfeetRTsO2Q8r5zat5dKs5c8="
+        }
+      ]
+    },
+    {
+      "Route": "images/hero-bg.bks7niomeb.jpg",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\hero-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4vfruI1MfBt13Sti+1ExCHnMH6k2MqjUq2++WabWlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bks7niomeb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hero-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W4vfruI1MfBt13Sti+1ExCHnMH6k2MqjUq2++WabWlI="
+        }
+      ]
+    },
+    {
+      "Route": "images/hero-bg.jpg",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\hero-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4vfruI1MfBt13Sti+1ExCHnMH6k2MqjUq2++WabWlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W4vfruI1MfBt13Sti+1ExCHnMH6k2MqjUq2++WabWlI="
+        }
+      ]
+    },
+    {
+      "Route": "images/o1.jpg",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\o1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9YsnGdNgrzPfCQ1NwXquZ5Aa8QZfVORNHTm54rmtO1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9YsnGdNgrzPfCQ1NwXquZ5Aa8QZfVORNHTm54rmtO1M="
+        }
+      ]
+    },
+    {
+      "Route": "images/o1.rkigy015z7.jpg",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\o1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9YsnGdNgrzPfCQ1NwXquZ5Aa8QZfVORNHTm54rmtO1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rkigy015z7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/o1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9YsnGdNgrzPfCQ1NwXquZ5Aa8QZfVORNHTm54rmtO1M="
+        }
+      ]
+    },
+    {
+      "Route": "images/o2.48jshhobi3.jpg",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\o2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rNo+3PpZ1UGdR76b0maKtllJFYF5wExP7ZBlPCK3EIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48jshhobi3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/o2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rNo+3PpZ1UGdR76b0maKtllJFYF5wExP7ZBlPCK3EIY="
+        }
+      ]
+    },
+    {
+      "Route": "images/o2.jpg",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\o2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rNo+3PpZ1UGdR76b0maKtllJFYF5wExP7ZBlPCK3EIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rNo+3PpZ1UGdR76b0maKtllJFYF5wExP7ZBlPCK3EIY="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.ikbvthl94z.js",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\551yx16jzv-ikbvthl94z.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000035308241"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28321"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QUv0Tys36oeq6jEsi6hSO6WI3hUjMm6M5wpmSzZKQhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Uv3un1DrOQEmgwZUBkxD1kT4ia9ckWdHDimRkTHtEjs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ikbvthl94z"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uv3un1DrOQEmgwZUBkxD1kT4ia9ckWdHDimRkTHtEjs="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.ikbvthl94z.js",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181916"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uv3un1DrOQEmgwZUBkxD1kT4ia9ckWdHDimRkTHtEjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ikbvthl94z"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uv3un1DrOQEmgwZUBkxD1kT4ia9ckWdHDimRkTHtEjs="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.ikbvthl94z.js.gz",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\551yx16jzv-ikbvthl94z.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28321"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QUv0Tys36oeq6jEsi6hSO6WI3hUjMm6M5wpmSzZKQhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ikbvthl94z"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QUv0Tys36oeq6jEsi6hSO6WI3hUjMm6M5wpmSzZKQhQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.js",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\551yx16jzv-ikbvthl94z.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000035308241"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28321"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QUv0Tys36oeq6jEsi6hSO6WI3hUjMm6M5wpmSzZKQhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Uv3un1DrOQEmgwZUBkxD1kT4ia9ckWdHDimRkTHtEjs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uv3un1DrOQEmgwZUBkxD1kT4ia9ckWdHDimRkTHtEjs="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.js",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181916"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uv3un1DrOQEmgwZUBkxD1kT4ia9ckWdHDimRkTHtEjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uv3un1DrOQEmgwZUBkxD1kT4ia9ckWdHDimRkTHtEjs="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.js.gz",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\551yx16jzv-ikbvthl94z.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28321"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QUv0Tys36oeq6jEsi6hSO6WI3hUjMm6M5wpmSzZKQhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QUv0Tys36oeq6jEsi6hSO6WI3hUjMm6M5wpmSzZKQhQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/custom.95dnrx32fu.js",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\w168em46nv-95dnrx32fu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001449275362"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "689"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WD82SPCf7m/6oix8oiXFZdhu/BPT95arqJ/fmvag0nY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TXGUUXUPgOg61BH77vLrF3A4BsMbAQ1iCNx9nHVkrDQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "95dnrx32fu"
+        },
+        {
+          "Name": "label",
+          "Value": "js/custom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TXGUUXUPgOg61BH77vLrF3A4BsMbAQ1iCNx9nHVkrDQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/custom.95dnrx32fu.js",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TXGUUXUPgOg61BH77vLrF3A4BsMbAQ1iCNx9nHVkrDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "95dnrx32fu"
+        },
+        {
+          "Name": "label",
+          "Value": "js/custom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TXGUUXUPgOg61BH77vLrF3A4BsMbAQ1iCNx9nHVkrDQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/custom.95dnrx32fu.js.gz",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\w168em46nv-95dnrx32fu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "689"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WD82SPCf7m/6oix8oiXFZdhu/BPT95arqJ/fmvag0nY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "95dnrx32fu"
+        },
+        {
+          "Name": "label",
+          "Value": "js/custom.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WD82SPCf7m/6oix8oiXFZdhu/BPT95arqJ/fmvag0nY="
+        }
+      ]
+    },
+    {
+      "Route": "js/custom.js",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\w168em46nv-95dnrx32fu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001449275362"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "689"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WD82SPCf7m/6oix8oiXFZdhu/BPT95arqJ/fmvag0nY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TXGUUXUPgOg61BH77vLrF3A4BsMbAQ1iCNx9nHVkrDQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TXGUUXUPgOg61BH77vLrF3A4BsMbAQ1iCNx9nHVkrDQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/custom.js",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TXGUUXUPgOg61BH77vLrF3A4BsMbAQ1iCNx9nHVkrDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TXGUUXUPgOg61BH77vLrF3A4BsMbAQ1iCNx9nHVkrDQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/custom.js.gz",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\w168em46nv-95dnrx32fu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "689"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WD82SPCf7m/6oix8oiXFZdhu/BPT95arqJ/fmvag0nY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WD82SPCf7m/6oix8oiXFZdhu/BPT95arqJ/fmvag0nY="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-3.4.1.min.0h1hq80lqs.js",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\f4b0lx3b8g-0h1hq80lqs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032556322"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30715"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9UpGjr3ISKaErqGMknwglSpdWZhUUGXa/17voR1KghU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0h1hq80lqs"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery-3.4.1.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-3.4.1.min.0h1hq80lqs.js",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0h1hq80lqs"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery-3.4.1.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-3.4.1.min.0h1hq80lqs.js.gz",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\f4b0lx3b8g-0h1hq80lqs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30715"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9UpGjr3ISKaErqGMknwglSpdWZhUUGXa/17voR1KghU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0h1hq80lqs"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery-3.4.1.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9UpGjr3ISKaErqGMknwglSpdWZhUUGXa/17voR1KghU="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-3.4.1.min.js",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\f4b0lx3b8g-0h1hq80lqs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032556322"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30715"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9UpGjr3ISKaErqGMknwglSpdWZhUUGXa/17voR1KghU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-3.4.1.min.js",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-3.4.1.min.js.gz",
+      "AssetFile": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\obj\\Debug\\net9.0\\compressed\\f4b0lx3b8g-0h1hq80lqs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30715"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9UpGjr3ISKaErqGMknwglSpdWZhUUGXa/17voR1KghU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9UpGjr3ISKaErqGMknwglSpdWZhUUGXa/17voR1KghU="
         }
       ]
     },
@@ -21310,7 +26090,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 13:19:27 GMT"
+          "Value": "Thu, 27 Feb 2025 15:53:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21363,7 +26143,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 13:19:27 GMT"
+          "Value": "Thu, 27 Feb 2025 15:53:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21400,7 +26180,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 13:19:27 GMT"
+          "Value": "Thu, 27 Feb 2025 15:53:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21447,7 +26227,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 13:19:27 GMT"
+          "Value": "Thu, 27 Feb 2025 15:53:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21508,7 +26288,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 13:19:27 GMT"
+          "Value": "Thu, 27 Feb 2025 15:53:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21553,7 +26333,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 13:19:27 GMT"
+          "Value": "Thu, 27 Feb 2025 15:53:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21608,7 +26388,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 13:19:27 GMT"
+          "Value": "Thu, 27 Feb 2025 15:53:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21669,7 +26449,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 13:19:27 GMT"
+          "Value": "Thu, 27 Feb 2025 15:53:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21714,7 +26494,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 13:19:27 GMT"
+          "Value": "Thu, 27 Feb 2025 15:53:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21769,7 +26549,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 13:19:27 GMT"
+          "Value": "Thu, 27 Feb 2025 15:53:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21822,7 +26602,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 13:19:27 GMT"
+          "Value": "Thu, 27 Feb 2025 15:53:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21859,7 +26639,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 13:19:27 GMT"
+          "Value": "Thu, 27 Feb 2025 15:53:52 GMT"
         },
         {
           "Name": "Cache-Control",

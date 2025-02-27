@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|d:\\mvcprojectfinal\\mvcproject-master\\onlinerestaurant\\onlinerestaurant\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|solutionrelative:onlinerestaurant\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:2:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|d:\\mvcprojectfinal\\mvcproject-master\\onlinerestaurant\\onlinerestaurant\\views\\order\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:2:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|solutionrelative:onlinerestaurant\\views\\order\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|d:\\mvcprojectfinal\\mvcproject-master\\onlinerestaurant\\onlinerestaurant\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|solutionrelative:onlinerestaurant\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:1:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|d:\\mvcprojectfinal\\mvcproject-master\\onlinerestaurant\\onlinerestaurant\\views\\order\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:1:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|solutionrelative:onlinerestaurant\\views\\order\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|d:\\mvcprojectfinal\\mvcproject-master\\onlinerestaurant\\onlinerestaurant\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|solutionrelative:onlinerestaurant\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|d:\\mvcprojectfinal\\mvcproject-master\\onlinerestaurant\\onlinerestaurant\\views\\shared\\_createorderlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|solutionrelative:onlinerestaurant\\views\\shared\\_createorderlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|d:\\mvcprojectfinal\\mvcproject-master\\onlinerestaurant\\onlinerestaurant\\views\\order\\getorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|solutionrelative:onlinerestaurant\\views\\order\\getorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|d:\\mvcprojectfinal\\mvcproject-master\\onlinerestaurant\\onlinerestaurant\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|solutionrelative:onlinerestaurant\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|d:\\mvcprojectfinal\\mvcproject-master\\onlinerestaurant\\onlinerestaurant\\views\\order\\getallorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|solutionrelative:onlinerestaurant\\views\\order\\getallorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|d:\\mvcprojectfinal\\mvcproject-master\\onlinerestaurant\\onlinerestaurant\\views\\shared\\_resturanthomelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|solutionrelative:onlinerestaurant\\views\\shared\\_resturanthomelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|d:\\mvcprojectfinal\\mvcproject-master\\onlinerestaurant\\onlinerestaurant\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|solutionrelative:onlinerestaurant\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|d:\\mvcprojectfinal\\mvcproject-master\\onlinerestaurant\\onlinerestaurant\\viewmodels\\orderitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|solutionrelative:onlinerestaurant\\viewmodels\\orderitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|d:\\mvcprojectfinal\\mvcproject-master\\onlinerestaurant\\onlinerestaurant\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|solutionrelative:onlinerestaurant\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,92 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "OnlineRestaurant\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "OnlineRestaurant\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAMwCUAAAAAAAAAAAAAAA==",
+              "Title": "CreateOrder.cshtml",
+              "DocumentMoniker": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Views\\Order\\CreateOrder.cshtml",
+              "RelativeDocumentMoniker": "OnlineRestaurant\\Views\\Order\\CreateOrder.cshtml",
+              "ToolTip": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Views\\Order\\CreateOrder.cshtml",
+              "RelativeToolTip": "OnlineRestaurant\\Views\\Order\\CreateOrder.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwBkAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T13:35:49.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "OnlineRestaurant\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "OnlineRestaurant\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAcwC8AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T13:29:39.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetAllOrder.cshtml",
-              "DocumentMoniker": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Views\\Order\\GetAllOrder.cshtml",
-              "RelativeDocumentMoniker": "OnlineRestaurant\\Views\\Order\\GetAllOrder.cshtml",
-              "ToolTip": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Views\\Order\\GetAllOrder.cshtml",
-              "RelativeToolTip": "OnlineRestaurant\\Views\\Order\\GetAllOrder.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T13:22:08.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderItemVM.cs",
-              "DocumentMoniker": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\ViewModels\\OrderItemVM.cs",
-              "RelativeDocumentMoniker": "OnlineRestaurant\\ViewModels\\OrderItemVM.cs",
-              "ToolTip": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\ViewModels\\OrderItemVM.cs",
-              "RelativeToolTip": "OnlineRestaurant\\ViewModels\\OrderItemVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T13:01:27.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "OnlineRestaurant\\Models\\OrderItem.cs",
-              "ToolTip": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Models\\OrderItem.cs",
-              "RelativeToolTip": "OnlineRestaurant\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T13:01:13.029Z",
+              "WhenOpened": "2025-02-27T15:22:20.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GetOrder.cshtml",
-              "DocumentMoniker": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Views\\Order\\GetOrder.cshtml",
-              "RelativeDocumentMoniker": "OnlineRestaurant\\Views\\Order\\GetOrder.cshtml",
-              "ToolTip": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Views\\Order\\GetOrder.cshtml",
-              "RelativeToolTip": "OnlineRestaurant\\Views\\Order\\GetOrder.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBUAAAAgAAAAAAAAAA==",
+              "Title": "_LayoutLogin.cshtml",
+              "DocumentMoniker": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Views\\Shared\\_LayoutLogin.cshtml",
+              "RelativeDocumentMoniker": "OnlineRestaurant\\Views\\Shared\\_LayoutLogin.cshtml",
+              "ToolTip": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Views\\Shared\\_LayoutLogin.cshtml",
+              "RelativeToolTip": "OnlineRestaurant\\Views\\Shared\\_LayoutLogin.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T12:56:59.98Z",
+              "WhenOpened": "2025-02-27T15:07:09.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_CreateOrderLayout.cshtml",
+              "DocumentMoniker": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Views\\Shared\\_CreateOrderLayout.cshtml",
+              "RelativeDocumentMoniker": "OnlineRestaurant\\Views\\Shared\\_CreateOrderLayout.cshtml",
+              "ToolTip": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Views\\Shared\\_CreateOrderLayout.cshtml",
+              "RelativeToolTip": "OnlineRestaurant\\Views\\Shared\\_CreateOrderLayout.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T14:52:34.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "OnlineRestaurant\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "OnlineRestaurant\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAJ0AAAAAAAAAAAAAAA==",
+              "Title": "CreateOrder.cshtml",
+              "DocumentMoniker": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Views\\Order\\CreateOrder.cshtml",
+              "RelativeDocumentMoniker": "OnlineRestaurant\\Views\\Order\\CreateOrder.cshtml",
+              "ToolTip": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Views\\Order\\CreateOrder.cshtml",
+              "RelativeToolTip": "OnlineRestaurant\\Views\\Order\\CreateOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwGIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T14:26:54.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "OnlineRestaurant\\Models\\Product.cs",
+              "ToolTip": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Models\\Product.cs",
+              "RelativeToolTip": "OnlineRestaurant\\Models\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T12:59:15.596Z",
+              "WhenOpened": "2025-02-27T13:44:08.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ResturantHomeLayout.cshtml",
+              "DocumentMoniker": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Views\\Shared\\_ResturantHomeLayout.cshtml",
+              "RelativeDocumentMoniker": "OnlineRestaurant\\Views\\Shared\\_ResturantHomeLayout.cshtml",
+              "ToolTip": "D:\\MVCProjectFinal\\MVCProject-master\\OnlineRestaurant\\OnlineRestaurant\\Views\\Shared\\_ResturantHomeLayout.cshtml",
+              "RelativeToolTip": "OnlineRestaurant\\Views\\Shared\\_ResturantHomeLayout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwC8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T13:41:42.19Z",
               "EditorCaption": ""
             }
           ]
